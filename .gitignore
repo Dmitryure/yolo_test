@@ -1,0 +1,8 @@
+/whatever
+/dataset
+/runs
+.env
+/yolo_model
+result.png
+/venv
+yolo11n.pt
